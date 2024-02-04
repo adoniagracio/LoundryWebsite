@@ -1050,6 +1050,10 @@ video {
     width: 100vw;
   }
 
+  .max-md\:w-full {
+    width: 100%;
+  }
+
   .max-md\:flex-col {
     flex-direction: column;
   }
